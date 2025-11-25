@@ -1,7 +1,7 @@
 # Datos del Alumno
 
-**Nombre:** Maximiliano Passo Koziura  
-**Email:** maximilianokoziura.et32@gmail.com  
+**Nombre:** Alvaro Guevara
+**Email:** alvaroguevaraet32@gmail.com  
 **Curso:** 6to 1ra Computación T.M  
 
 # Datos del Docente
