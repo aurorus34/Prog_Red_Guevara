@@ -1,6 +1,6 @@
 **# programacion_redes**# Programacion-Sobre-Redes
-- Alumno: Maximiliano Passo Koziura
-- Correo: maximilianokoziura.et32@gmail.com
+- Alumno: Alvaro Ignacio Guevara Cufre
+- Correo: alvaroguevaraet32@gmail.com
 - Curso y División: 6°1 Computación
 - Docente: Gonzalo Nicolas Consorti
 - Materia: Programación sobre Redes
